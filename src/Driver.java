@@ -12,8 +12,8 @@ public class Driver {
 	
 	double num = 15.6;
 	
-	System.out.println(Math.factorial((int)num));
-	System.out.println(Math.loopfactorial((int)num));
+	System.out.println(Math.factorial((long)num));
+	System.out.println(Math.loopfactorial((long)num));
 	
 	}
 }
